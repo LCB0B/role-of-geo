@@ -17,6 +17,18 @@ git clone https://github.com/LCB0B/role-of-geo.git
 cd role-of-geo
 pip install -r requirements.txt
 ```
+### Data Sources:
+Denmark:
+- Residential Mobility : Danmarks Statistik (DST)
+- Location coordinates : DST, partially publicly available at https://dawadocs.dataforsyningen.dk/dok/api/adgangsadresse#databeskrivelse
+
+France :
+- Residential Mobility :
+- Location coordiantes :
+
+Day-to-day Mobility:
+- Foursquare (not publicly available)
+
 
 ### Usage
 
