@@ -110,7 +110,7 @@ plot_city([1,ax11,ax12],x_m,y_m,x_p,y_p,x_r,y_r,colors,'singapore',slope=0.89)
 x_m,y_m,x_p,y_p,x_r,y_r = load_data('san francisco')
 plot_city([0,ax5,ax6],x_m,y_m,x_p,y_p,x_r,y_r,colors,'san francisco',slope=.94)
 x_m,y_m,x_p,y_p,x_r,y_r = load_data('houston')
-plot_city([1,ax8,ax9],x_m,y_m,x_p,y_p,x_r,y_r,colors,'houston',slope=0.94)
+plot_city([1,ax8,ax9],x_m,y_m,x_p,y_p,x_r,y_r,colors,'houston',slope=0.95)
 
 
 # layout
