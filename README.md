@@ -38,7 +38,7 @@ Figure1
 
 Figure2
 <figure>
-    <img src="figures/figure_2.png" alt="fig2" width="700">
+    <img src="figures/figure-2.png" alt="fig2" width="700">
 </figure>
 
 Figure3
