@@ -13,6 +13,11 @@ git clone https://github.com/LCB0B/role-of-geo.git
 cd role-of-geo
 pip install -r requirements.txt
 ```
+python version:
+```bash
+ Python 3.10
+```
+
 ### Data Sources:
 Denmark:
 - Residential Mobility : Danmarks Statistik (DST)
