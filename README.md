@@ -28,7 +28,7 @@ Day-to-day Mobility:
 
 ### Usage
 
-## Reproducing figures from the manuscript
+#### Reproducing figures from the manuscript
 python src/figure-{i}.py
 
 Figure1 
@@ -51,7 +51,7 @@ Figure4
     <img src="figures/figure-4.png" alt="fig4" width="350">
 </figure>
 
-## Model of locations
+#### Model of locations
 Simulate Lennard-Jones spheres and similar systems in the context of location of buildings.
 ```
 git clone https://github.com/benmaier/ljhouses
