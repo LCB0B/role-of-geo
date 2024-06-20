@@ -46,8 +46,10 @@ Day-to-day Mobility:
 # Usage
 
 ## Reproducing figures from the manuscript
-python src/figure-{i}.py
 
+```bash
+python src/figure-{i}.py
+```
 Figure1 
 <figure>
     <img src="figures/figure_1.png" alt="fig1" width="700">
