@@ -32,15 +32,15 @@ python version:
 
 # Data Sources:
 Denmark:
-- Residential Mobility : Danmarks Statistik (DST)
-- Location coordinates : DST, partially publicly available at https://dawadocs.dataforsyningen.dk/dok/api/adgangsadresse#databeskrivelse
+- Residential Mobility : Danmarks Statistik (DST) *not publicly available*
+- Location coordinates : DST, *partially publicly available* at [https://dawadocs.dataforsyningen.dk/dok/api/adgangsadresse#databeskrivelse](https://dawadocs.dataforsyningen.dk/dok/api/adgangsadresse#databeskrivelse)
 
 France :
-- Residential Mobility :
-- Location coordiantes :
+- Residential Mobility *publicly available* at [https://www.insee.fr/fr/statistiques](https://www.insee.fr/fr/statistiques)
+- Location coordinates *publicly available* at [https://adresse.data.gouv.fr/donnees-nationales](https://adresse.data.gouv.fr/donnees-nationales)
 
 Day-to-day Mobility:
-- Foursquare (not publicly available)
+- Foursquare *not publicly available*
 
 
 # Usage
