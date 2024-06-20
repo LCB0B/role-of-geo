@@ -1,6 +1,7 @@
 # Decomposing Geographical and Universal Aspects of Human Mobility: Code, Data, and Additional Figures
 
-[![DOI](https://zenodo.org/badge/793592835.svg)](https://zenodo.org/badge/latestdoi/793592835)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.11990046-blue)](https://zenodo.org/records/11990046)
+[![arXiv](https://img.shields.io/badge/arXiv-2405.08746-B31B1B.svg)](https://arxiv.org/pdf/2405.08746)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 
