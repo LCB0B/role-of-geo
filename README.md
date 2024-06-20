@@ -72,7 +72,8 @@ Figure4
 
 # Model of locations
 
-[![GitHub](https://img.shields.io/badge/GitHub-repo-blue.svg)](https://github.com/benmaier/ljhouses
+[![GitHub](https://img.shields.io/badge/GitHub-repo-blue.svg)](https://github.com/benmaier/ljhouses)
+
 Simulate Lennard-Jones spheres and similar systems in the context of location of buildings.
 ```
 git clone https://github.com/benmaier/ljhouses
