@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 python version:
 ```bash
- Python 3.10
+ python==3.10
 ```
 
 # Data Sources:
